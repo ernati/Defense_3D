@@ -1,7 +1,9 @@
 # Defense_3D
+## 클래스 구조 - 표
+![Group 3](https://github.com/ernati/Defense_3D/assets/31719912/2bb3e9fc-62ae-4d18-8e5d-1c0db7fb354b)
 
 
-## 클래스 구조
+## 클래스 구조 - 텍스트
 - 각 클래스 별로, 범주 구분을 위해 "==="를 사용합니다.
 
 ### Defence_3DGameMode 클래스
