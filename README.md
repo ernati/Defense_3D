@@ -1,4 +1,7 @@
 # Defense_3D
+- 클래스 구조를 표와 텍스트로 표현해놓았습니다.
+- 편하신 방법으로 보시면 됩니다.
+
 ## 클래스 구조 - 표
 ![Group 3](https://github.com/ernati/Defense_3D/assets/31719912/2bb3e9fc-62ae-4d18-8e5d-1c0db7fb354b)
 
