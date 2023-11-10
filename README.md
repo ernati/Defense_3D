@@ -2,6 +2,8 @@
 
 
 ## 클래스 구조
+- 각 클래스 별로, 범주 구분을 위해 "==="를 사용합니다.
+
 ### Defence_3DGameMode 클래스
 - StartMap_GameMode와 InGameMode 블루프린트들이 상속하는 클래스다.
   
